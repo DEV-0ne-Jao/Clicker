@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="28.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Página-1" id="LrLcTtRNYLxXVGTFRUeq">
-    <mxGraphModel dx="2670" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1933" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z11mPWNo74vgTN4iBazf-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="Z11mPWNo74vgTN4iBazf-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="260" y="-520" width="1100" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Z11mPWNo74vgTN4iBazf-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z11mPWNo74vgTN4iBazf-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="814" y="-190" width="840" height="900" as="geometry" />
         </mxCell>
-        <mxCell id="Z11mPWNo74vgTN4iBazf-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z11mPWNo74vgTN4iBazf-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="-190" width="840" height="900" as="geometry" />
         </mxCell>
         <mxCell id="FxPieWOLS__BftdB33JA-1" value="Personagem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="40" width="220" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="FxPieWOLS__BftdB33JA-2" value="&lt;div&gt;protected Sprite&lt;/div&gt;&lt;div&gt;protected int vidaMax&lt;/div&gt;&lt;div&gt;protected int vida&lt;/div&gt;&lt;div&gt;protected int dano&lt;/div&gt;&lt;div&gt;protected int chanceCritica&lt;/div&gt;&lt;div&gt;protected int danoCritico&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="FxPieWOLS__BftdB33JA-1" vertex="1">
+        <mxCell id="FxPieWOLS__BftdB33JA-2" value="&lt;div&gt;protected ImageIcon icone&lt;/div&gt;&lt;div&gt;protected String nome&lt;/div&gt;&lt;div&gt;protected int vidaMax&lt;/div&gt;&lt;div&gt;protected int vida&lt;/div&gt;&lt;div&gt;protected int dano&lt;/div&gt;&lt;div&gt;protected int chanceCritica&lt;/div&gt;&lt;div&gt;protected double multiplicadorCritico&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="FxPieWOLS__BftdB33JA-1" vertex="1">
           <mxGeometry y="26" width="220" height="104" as="geometry" />
         </mxCell>
         <mxCell id="FxPieWOLS__BftdB33JA-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="FxPieWOLS__BftdB33JA-1" vertex="1">
@@ -128,10 +128,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z11mPWNo74vgTN4iBazf-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Lógica&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z11mPWNo74vgTN4iBazf-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Lógica&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="-70" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z11mPWNo74vgTN4iBazf-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Gráfica&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z11mPWNo74vgTN4iBazf-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Gráfica&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1210" y="-70" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
